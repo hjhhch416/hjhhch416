@@ -6,7 +6,7 @@
 
 ---
 
-## About Me ✨
+## Profile 🧑‍💻
 
 | 기간 | 활동/경력 | 주요 업무 |
 |---|---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## My Tech Stack 📚
+## Tech Stack 🛠️
 
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -38,8 +38,18 @@
 
 ---
 
-## My Projects 💻
+## Main Projects 📌
 
+### 🚗 [Industrial Patrol Robot](https://github.com/hjhhch416/Industrial-Patrol-Robot-based-on-SLAM-and-CAN-Network)
+- SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇
+- C 기반 로봇 제어 및 통신 구조 분석
+- Forked project 기반 코드 분석 및 기능 이해
 
+<br/>
+
+### 🤖 [AMR Fleet Core](https://github.com/hjhhch416/AMR_Fleet_Core)
+- 자율 이동 로봇 다중 제어 시스템
+- C++ 기반 AMR Fleet 제어 구조 분석
+- 다중 로봇 제어 및 작업 관리 로직 학습
 
 ---
